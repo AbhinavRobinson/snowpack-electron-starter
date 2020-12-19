@@ -1,6 +1,5 @@
 {
   "name": "snowpack-electron-react",
-  "version": "0.0.1",
   "description": "Template for snowpack, electron and react",
   "main": "main.js",
   "publishConfig": {
@@ -14,10 +13,6 @@
     "snowpack-dev": "snowpack dev --open none",
     "snowpack-prepare": "snowpack install",
     "snowpack-build": "snowpack build"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/stepanvanzuriak/snowpack-electron-react.git"
   },
   "keywords": [
     "snowpack",
