@@ -1,25 +1,20 @@
-# New Project
+# Template for Electron, Snowpack and React
 
-> ✨ Bootstrapped with Create Snowpack App (CSA).
+A light weight snowpack template for Electron+React.
 
-## Available Scripts
+## Scripts
 
-### npm start
+`dev` - Start snowpack dev and electron dev
 
-Runs the app in the development mode.
-Open http://localhost:8080 to view it in the browser.
+`build` - Snowpack build
 
-The page will reload if you make edits.
-You will also see any lint errors in the console.
+`electron-start` - Start only electron
 
-### npm run build
+`electron-prod` - Start only electron and set source as build folder
 
-Builds a static copy of your site to the `build/` folder.
-Your app is ready to be deployed!
+`snowpack-dev` - Start only snowpack dev
 
-**For the best production performance:** Add a build bundler plugin like "@snowpack/plugin-webpack" to your `snowpack.config.js` config file.
+`snowpack-prepare` - Start snowpack install
 
-### npm test
+`snowpac-build` - Start snowpack build
 
-Launches the application test runner.
-Run with the `--watch` flag (`npm test -- --watch`) to run in interactive watch mode.
