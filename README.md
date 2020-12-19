@@ -17,4 +17,3 @@ A light weight snowpack template for Electron+React.
 `snowpack-prepare` - Start snowpack install
 
 `snowpac-build` - Start snowpack build
-
